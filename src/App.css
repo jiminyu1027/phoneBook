@@ -1,0 +1,31 @@
+body{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+.title {
+  text-align: center;
+  padding: 10px;
+}
+.contactForm {
+  padding-bottom: 15px;
+}
+.contactSearch{
+  margin-bottom: 15px;
+}
+.contactList {
+  margin-top: 15px;
+}
+.addBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+.contactItem{
+  margin:5px;
+  padding: 10px 0;
+  border: 1px solid lightgray;
+}
+
+@media screen and (max-width: 48rem) {
+  .contactForm {
+    border-bottom: 1px solid lightgray;
+  }
+}
