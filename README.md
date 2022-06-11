@@ -1,10 +1,10 @@
 # 전화번호부
 
-자바스크립트를 이용한 1 ~ 100 까지 랜덤한 값 하나를 맞추는 게임.
+연락처를 추가하고 검색할수 있는 앱
 
 ![phonebook](https://user-images.githubusercontent.com/92264611/173181363-7ca14f0c-9bc4-43f1-ba67-345b0a0b671b.png)
 
-- Demo : [https://numberguess-jimin.netlify.app/](https://numberguess-jimin.netlify.app/)
+- Demo : [https://jimin-phonebook.netlify.app/](https://jimin-phonebook.netlify.app/)
 
 ## 개발 목표
 
